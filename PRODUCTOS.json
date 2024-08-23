@@ -1,0 +1,91 @@
+[
+    { 
+        "nombre": "BMW XM 2024",
+        "tipo": "Hibrido enchufable",
+        "imagen": "/IMG/xm.png",
+        "precio": "Desde $1.099.900.000",
+        "id": "X"
+
+    },
+    { 
+        "nombre": "BMW X4 M40I 2024",
+        "tipo": "Motor de 6 Cilindros en Línea",
+        "imagen": "/IMG/x4.png",
+        "precio": "Desde $779.900.000",
+        "id": "X"
+
+    },
+    { 
+        "nombre": "BMW X7 M60i 2024",
+        "tipo": "SUV de Alto Rendimiento",
+        "imagen": "/IMG/x7.jpeg",
+        "precio": "Desde $ 559.900.000",
+        "id": "X"
+
+    },
+    { 
+        "nombre": "BMW M3 Competition",
+        "tipo": "Deportivo de Alto Rendimiento",
+        "imagen": "/IMG/m3comp.png",
+        "precio": "Desde $849.900.000",
+        "id": "M"
+
+    },
+    { 
+        "nombre": "BMW M4 Coupé Competition 2024",
+        "tipo": "Coupé Deportivo de Alto Rendimiento",
+        "imagen": "/IMG/m4coup.jpeg",
+        "precio": "Desde $ 649.900.000",
+        "id": "M"
+
+    },
+    { 
+        "nombre": "BMW M440i Coupé 2024",
+        "tipo": "Coupé Deportivo de Alto Rendimiento",
+        "imagen": "/IMG/m4icoup.jpeg",
+        "precio": "Desde $ 304.900.000",
+        "id": "M"
+
+    },
+    { 
+        "nombre": "BMW Serie 4 Cabrio 2024 ",
+        "tipo": "Deportivo y Elegante",
+        "imagen": "/IMG/s4cab.jpeg",
+        "precio": "Desde $239.900.000",
+        "id": "SERIES 4"
+
+    },
+    { 
+        "nombre": "BMW Serie 4 Coupé 2025",
+        "tipo": "Coupé Deportivo de Lujo",
+        "imagen": "/IMG/s4.jpeg",
+        "precio": "Desde $ 259.900.000",
+        "id": "SERIES 4"
+
+    },
+    { 
+        "nombre": "BMW Serie 4 Gran Coupé 2024",
+        "tipo": "Sedán Deportivo de Lujo",
+        "imagen": "/IMG/s4g.jpeg",
+        "precio": "Desde $ 219.900.000",
+        "id": "SERIES 4"
+
+    },
+    { 
+        "nombre": "BMW Serie 2 Gran Coupé 2024",
+        "tipo": "Sedán Deportivo Compacto",
+        "imagen": "/IMG/s2gp.jpeg",
+        "precio": "Desde $ 174.900.000",
+        "id": "SERIES 2"
+
+    },
+    { 
+        "nombre": "BMW M2 Coupé 2024",
+        "tipo": "Coupé Deportivo de Alto Rendimiento",
+        "imagen": "/IMG/s2coup.jpeg",
+        "precio": "Desde $ 459.900.000",
+        "id": "SERIES 2"
+
+    }
+    
+]
