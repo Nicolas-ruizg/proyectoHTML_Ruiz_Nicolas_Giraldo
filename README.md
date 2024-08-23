@@ -25,7 +25,20 @@ git clone https://github.com/Nicolas-ruizg/proyectoHTML_Ruiz_Nicolas_Giraldo.git
 - Accede al carrito de compras para revisar y gestionar tus productos seleccionados.
 
 ## Foticos
+- Menu principal
 ![texto cualquiera por si no carga la imagen](capturas/1.png)
+- Apartado de carros 
+![texto cualquiera por si no carga la imagen](capturas/2.png)
+- Funcionamiento Nav o filtro
+![texto cualquiera por si no carga la imagen](capturas/3.png)
+- Filtro
+![texto cualquiera por si no carga la imagen](capturas/4.png)
+- Añadido al carrito exitoso
+![texto cualquiera por si no carga la imagen](capturas/5.png)
+- Pagina del carrito
+![texto cualquiera por si no carga la imagen](capturas/6.png)
+- Opcion de eliminar y contador de cuantas unidades
+![texto cualquiera por si no carga la imagen](capturas/7.png)
 
 
   
