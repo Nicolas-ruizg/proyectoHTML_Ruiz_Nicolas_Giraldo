@@ -25,7 +25,7 @@ git clone https://github.com/Nicolas-ruizg/proyectoHTML_Ruiz_Nicolas_Giraldo.git
 - Accede al carrito de compras para revisar y gestionar tus productos seleccionados.
 
 ## Foticos
-![texto cualquiera por si no carga la imagen](https://github.com/Nicolas.ruizg/proyectoHTML_Ruiz_Giraldo_Nicolas/capturasfuncionamiento/1.png)
+![texto cualquiera por si no carga la imagen](proyectoHTML_Ruiz_Nicolas_Giraldo/capturas funcionamiento/1.png)
 
 
   
